@@ -2,7 +2,7 @@
 
 [![Profile Counter](https://profile-counter.glitch.me/{Corzed}/count.svg)](https://github.com/Corzed)
 
-## GitHub Stats
+## Stats
 
 <a href="https://github.com/Corzed">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Corzed&theme=dark&show_icons=true" alt="GitHub Stats" />
